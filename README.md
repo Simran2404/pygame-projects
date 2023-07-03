@@ -1,1 +1,1 @@
-# python_mini_projects
+# pygame_projects
